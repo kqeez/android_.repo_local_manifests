@@ -14,10 +14,9 @@
  	<project path="device/realme/RMX2020" name="device_realme_RMX2020" remote="b" revision="lineage-19.0" />
 	<project path="kernel/realme/RMX2020" name="kernel_realme_RMX2020" remote="a" revision="Q" />
 	<project path="vendor/realme/RMX2020" name="vendor_realme_RMX2020" remote="a" revision="lineage-19.0" />
-	<project path="vendor/mediatek/ims" name="vendor_mediatek_ims" remote="c" revision="eleven" />
 	<project path="vendor/mediatek/interfaces" name="vendor_mediatek_interfaces" remote="c" revision="dumaloo-release" />
 	<project path="device/mediatek/sepolicy/vndr" name="device_mediatek_sepolicy_vndr" remote="d" revision="twelve" />
-	<project path="realme/RMX2020-ims" name="vendor_realme_RMX2020-ims" remote="a" revision="twelve-rmui1" />
+	<project path="vendor/realme/RMX2020-ims" name="vendor_realme_RMX2020-ims" remote="a" revision="twelve-rmui1" />
 	<project path="packages/apps/RealmeParts" name="android_packages_apps_RealmeParts" remote="c" revision="aosp12" />
 	<project path="packages/apps/RealmeDirac" name="android_packages_apps_RealmeDirac" remote="c" revision="lineage-19.0" />
 </manifest> 
