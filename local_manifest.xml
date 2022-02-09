@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote  name="a"
+		fetch="https://github.com/rmx2061" />
+
+	<remote  name="b"
+         	fetch="https://github.com/kqeez/android_device_realme_RMX2061" />
+
+ 
+ 	<project path="device/realme/RMX2061" name="android_device_realme_RMX2061" remote="b" revision="twelve"/>
+
+	<project path="kernel/realme/sm7125-1" name="android_kernel_realme_sm7125-1" remote="a" revision="ds" />
+
+	<project path="vendor/realme/sm7125-common" name="android_vendor_realme" remote="a" revision="twelve"/>
+  
+  <project path="device/realme/sm7125-common" name="android_device_realme_sm7125-common" remote="a" revision="twelve"/>
+
+</manifest>
