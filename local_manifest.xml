@@ -14,7 +14,7 @@
         <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="pixel" revision="eleven" clone-depth="1" />
         <project path="vendor/mediatek/ims" name="vendor_mediatek_ims" remote="Realme-G70-Series" revision="eleven" clone-depth="1" />
         <project path="vendor/mediatek/interfaces" name="vendor_mediatek_interfaces" remote="Realme-G70-Series" revision="dumaloo-release" clone-depth="1" />
-        <project path="packages/apps/RealmeDirac" name="android_packages_apps_RealmeDirac" remote="Realme-G70-Series" revision="master" clone-depth="1" />
-        <project path="packages/apps/RealmeParts" name="android_packages_apps_RealmeParts" remote="Realme-G70-Series" revision="lineage-18.1" clone-depth="1" />
+        <project path="packages/apps/RealmeDirac" name="android_packages_apps_RealmeDirac" remote="a" revision="master" clone-depth="1" />
+        <project path="packages/apps/RealmeParts" name="android_packages_apps_RealmeParts" remote="a" revision="lineage-18.1" clone-depth="1" />
         
 </manifest>
